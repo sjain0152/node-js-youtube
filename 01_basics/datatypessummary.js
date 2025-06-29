@@ -49,4 +49,3 @@ usertwo.email="user2@google.com"
 
 console.log(userone.email);
 console.log(usertwo.email);
-
